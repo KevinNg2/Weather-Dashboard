@@ -1,0 +1,47 @@
+/* colors for header */
+.header {
+    background-color: #0000f5a6;
+    background-image: linear-gradient(190deg, #0000f5a6 0%, #293ddb 52%, #b6c6f3 90%);
+}
+
+/* un ordered list styling */
+ul {
+    list-style: none;
+
+}
+
+/* city list unordered list */
+.list-cities {
+    padding: 0;
+    list-style: none;
+    background-color: lightgray;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+/* card title styling  */
+.card-title {
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 20px;
+    border: 1px solid #000;
+    margin-bottom: 15px;
+    background-color: lightblue;
+    font-weight: bold;
+}
+/* image sizes   */
+img {
+    width: 100px;
+    height: 100px;
+}
+/* five day forecast colors & spacing */
+.fiveDayColor {
+    margin: 10px;
+    border: 1px solid lightgray;
+    padding: 2px;
+    float: bottom;
+    background-color: lightblue;
+    color: black;
+    flex-direction: column;
+    font-weight: bold;
+}
