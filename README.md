@@ -1,7 +1,7 @@
 # Weather Dashboard
 UCI Homework 6 Weather Dashboard
 * ['Weather-Dashboard - Github'](https://github.com/KevinNg2/Weather-Dashboard)
-* ['Weather-Dashboard - Github Live Link](https://kevinng2.github.io/Weather-Dashboard/)
+* ['Weather-Dashboard - Github Live Link'](https://kevinng2.github.io/Weather-Dashboard/)
 
 ![](./images/weather-dashboard.png)
 ![](./images/5%20day%20forecast.png)
