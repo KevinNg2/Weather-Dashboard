@@ -27,6 +27,7 @@ As a traveler, The User wants to see the weather outlook for multiple cities so 
     * Location
     * Temperature
     * Wind
+    * Humidity
 
 ### Code Features:
 * Create a search input for users city input
