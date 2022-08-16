@@ -105,3 +105,14 @@ searchButton.click(function () {
         });
     }
 });
+
+// UV index color conditions that present colors for favorable, moderate or serve 
+"UV Index:" + "<span class ='highlight'>" + uvIndex + "</span>";
+var highlight = $('.highlight');
+        if (uvIndex < 3) {
+            highlight.css("background-color", "green");
+        } else if(uvIndex < 6) {
+            highlight.css("background-color", "orange");
+        } else if(uvIndex > 6) {
+            highlight.css("background-color", "red");
+        };
